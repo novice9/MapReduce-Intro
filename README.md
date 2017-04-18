@@ -3,7 +3,9 @@ Real-world Big-Data problems with Hadoop MapReduce
 
 This repository covers several simple application with MapReduce.
 
-The hadoop virtual machine is downloaded from Udacity.
+The hadoop virtual machine is downloaded from Udacity. 
+
+Due to the file size limition (<25MB), only sample dataset is uploaded 
 
 
 
