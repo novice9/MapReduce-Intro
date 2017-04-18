@@ -9,7 +9,7 @@ Due to the file size limition (<25MB), only sample dataset is uploaded
 
 
 
-To update dataset:
+To submit dataset:
 
 % hadoop fs -mkdir input
 
