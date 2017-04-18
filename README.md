@@ -2,7 +2,10 @@
 Real-world Big-Data problems with Hadoop MapReduce  
 
 This repository covers several simple application with MapReduce.
+
 The hadoop virtual machine is downloaded from Udacity.
+
+
 
 To update dataset:
 
