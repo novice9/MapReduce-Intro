@@ -10,14 +10,18 @@ To update dataset:
 
 % hadoop fs -put <dataset file>
 
-To run a job
+
+To run a job:
 
 % hs mapper.py reducer.py input output
 
-To enable combiner
+
+To enable combiner:
 
 % hsc mapper.py reducer.py input output
 
-To check result
+
+To check result:
 
 % hadoop fs -cat output/part-00000
+
