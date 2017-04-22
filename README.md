@@ -13,7 +13,7 @@ To submit dataset:
 
 % hadoop fs -mkdir input
 
-% hadoop fs -put <dataset file>
+% hadoop fs -put "datafile"
 
 
 To run a job:
