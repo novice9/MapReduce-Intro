@@ -1,19 +1,15 @@
 # MapReduce-Intro
 Real-world Big-Data problems with Hadoop MapReduce  
 
-This repository covers several simple application with MapReduce in multi-node Hadoop cluster.
+This repository covers several simple application with MapReduce in a pseudo-distributed Hadoop cluster.
 
-The 4-node hadoop cluster is hosted by Udacity for courses
-
-Due to the file size limition (<25MB), only sample dataset is attached
-
-
+Due to the file size limition (up to 25MB, however each data file is greater than 200MB), only sample dataset is attached
 
 To upload dataset into Hadoop:
 
 % hadoop fs -mkdir input
 
-% hadoop fs -put "datafile"
+% hadoop fs -put input/datafile
 
 
 To run a job on Hadoop with MapReduce:
